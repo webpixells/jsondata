@@ -1,0 +1,27 @@
+[
+{
+"id": "8",
+"category": "Hills ",
+"uploadfile": "http://localhost/mobile-app-admin/admin/API/uploads/Hills.jpg"
+},
+{
+"id": "9",
+"category": "Forst",
+"uploadfile": "http://localhost/mobile-app-admin/admin/API/uploads/forts.jpg"
+},
+{
+"id": "10",
+"category": "Temples",
+"uploadfile": "http://localhost/mobile-app-admin/admin/API/uploads/Bhadrakalitemple.jpg"
+},
+{
+"id": "11",
+"category": "Historical ",
+"uploadfile": "http://localhost/mobile-app-admin/admin/API/uploads/Mecca-Masjid.jpg"
+},
+{
+"id": "12",
+"category": "trekking ",
+"uploadfile": "http://localhost/mobile-app-admin/admin/API/uploads/bg1.jpg"
+}
+]
